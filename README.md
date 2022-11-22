@@ -5,7 +5,7 @@ Code (pytorch) for ['Source-Free Domain Adaptation via Target Prediction Distrib
 
 ### Preliminary
 
-You need to download the [MNIST](http://yann.lecun.com/exdb/mnist/),[USPS](https://www.openml.org/search?type=data&sort=runs&id=41070&status=active),[SVHN](http://ufldl.stanford.edu/housenumbers/),[Office-31](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view?resourcekey=0-gNMHVtZfRAyO_t2_WrOunA ), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view),[PACS](https://github.com/MachineLearning2020/Homework3-PACS ), [VisDA](hhttp://csr.bu.edu/ftp/visda17/clf/) dataset,  modify the path of images in each '.txt' under the folder './data/'.
+You need to download the [MNIST](http://yann.lecun.com/exdb/mnist/),[USPS](https://www.openml.org/search?type=data&sort=runs&id=41070&status=active),[SVHN](http://ufldl.stanford.edu/housenumbers/),[Office-31](https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view?resourcekey=0-gNMHVtZfRAyO_t2_WrOunA ), [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view),[PACS](https://github.com/MachineLearning2020/Homework3-PACS ), [VisDA](http://csr.bu.edu/ftp/visda17/clf/) dataset,  modify the path of images in each '.txt' under the folder './data/'.
 
 The experiments are conducted on one GPU (NVIDIA RTX TITAN).
 
