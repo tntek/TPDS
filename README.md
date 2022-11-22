@@ -16,7 +16,7 @@ The experiments are conducted on one GPU (NVIDIA RTX TITAN).
 
 ### Training and evaluation
 
-Please refer to the file on [run.sh](./run.sh).
+Please refer to the file on [run.sh](./digit/run.sh).
 
 ### Acknowledgement
 
