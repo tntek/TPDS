@@ -19,6 +19,10 @@ The experiments are conducted on one GPU (NVIDIA RTX TITAN).
 
 Please refer to the file on [run.sh](./digit/run.sh).
 
+
+### Citation
+Tang, S., Chang, A., Zhang, F. et al. Source-Free Domain Adaptation via Target Prediction Distribution Searching. Int J Comput Vis (2023). https://doi.org/10.1007/s11263-023-01892-w
+
 ### Acknowledgement
 
 
